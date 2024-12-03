@@ -32,7 +32,6 @@ url: "https://grade-up.in" # the base hostname & protocol for your site, e.g. ht
 theme: minima
 plugins:
   - jekyll-feed
-permalink: /:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
